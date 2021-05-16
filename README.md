@@ -4,5 +4,6 @@
 - 📫 How to reach me: [@yarbashsaleem](https://twitter.com/__yarbash__) 
 
 
-[![Yarbash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarbashsaleem&count_private=true)](https://github.com/yarbashsaleem/github-readme-stats)
+[![Yarbash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarbashsaleem&count_private=true&show_icons=true&theme=dark)
+](https://github.com/yarbashsaleem/github-readme-stats)
 
